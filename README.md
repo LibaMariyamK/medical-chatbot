@@ -2,7 +2,7 @@
 
 A web-based AI chatbot with user authentication that collects and stores medical information.
 
-![Chatbot UI](C:\Projects\bot\static\images\Screenshot 2025-04-07 163050.png)
+![Chatbot UI] (static\images\Screenshot 2025-04-07 163050.png)
 
 ## Setup Instructions
 1. Install Python 3.x.
